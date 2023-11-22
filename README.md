@@ -31,7 +31,8 @@ RegisterNumber:  23005672
 ```
 
 ## Output:
-![output](./squareroot.png)
+![squareroot](https://github.com/23005672/Square-root-of-a-number/assets/138971519/0f4718f3-63f8-41e1-aa92-d41af97d9f26)
+
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
